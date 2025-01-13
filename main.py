@@ -13,3 +13,4 @@ img.paste(logo, position)
 
 
 img.save("qr_code.png")
+img.save("qr_code_logolu.png")
